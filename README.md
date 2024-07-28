@@ -15,8 +15,14 @@
 ![image](https://github.com/user-attachments/assets/67c7e249-7aa8-41d0-bd72-9ed75ad0cec0)
 ![image](https://github.com/user-attachments/assets/47d07a19-cca7-4499-9931-ac12c158aa47)
 
+
+
+
 3. pd.DataFrame의 파라미터
 ![image](https://github.com/user-attachments/assets/e975d403-f4de-4f67-bf1b-f70c44a3bbce)
+
+
+
 
 4. df.agg(lambda x: np.mean(x) *5.6)  코드 해석
 ![image](https://github.com/user-attachments/assets/3a85e649-6f1d-4793-ae2a-60fc9ec13b54)
