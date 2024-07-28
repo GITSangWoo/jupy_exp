@@ -19,6 +19,8 @@
 
 
 3. pd.DataFrame의 파라미터
+
+
 ![image](https://github.com/user-attachments/assets/e975d403-f4de-4f67-bf1b-f70c44a3bbce)
 
 
